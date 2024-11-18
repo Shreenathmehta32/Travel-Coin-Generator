@@ -1,0 +1,1 @@
+to redeem the coin it generate the qr code , you can redeem the coin to scan qr code , but problem is that currently it not generating different qr code. so i add the qr image to show how it work . you can to do some changes in code for generating different code in every time when you want to redeem the coin .    
